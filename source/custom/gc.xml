@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>닌텐도 게임큐브는 2001년 9월 14일에 닌텐도가 발매한 가정용 게임기이다. 줄여서 GC 또는 NGC라고 부르기도 하며 북미 및 유럽 지역에서는 GCN이라고 부르기도 한다. </text>
+		</text>
+	
+
+		<text name="info2" extra="true">
+			<text>GameCube</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

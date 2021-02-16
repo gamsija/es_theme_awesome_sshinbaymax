@@ -1,0 +1,17 @@
+﻿<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>8비트 컴퓨터였던 X1의 후속 기종으로, 16비트 CPU 모토로라 68000를 탑재했다. 모토로라 68000 CPU를 탑재한 컴퓨터로는 아미가나 매킨토시 등이 있지만, 일본제 PC 중에서는 X68000이 유일하다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Sharp X68000</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1987</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Sharp Corporation</text>
+        </text>
+    </view>
+</theme>

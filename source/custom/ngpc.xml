@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>네오지오 포켓 컬러는 SNK에서 제작한 네오 지오 포켓의 후계 기종으로, 1999년 3월 16일에 일본에서 처음 발매되었다. 대한민국에서도 일본과 동시에 발매하였다.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo Pocket Color</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

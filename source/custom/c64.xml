@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>1982년에 코모도어 인터내셔널에서 발표한 8비트 가정용 컴퓨터이며, 코모도어의 전작인 VIC-20의 발전형이다. 이름에 '64'가 붙어 있는데, CPU가 64비트라는 뜻이 아니라 메모리 용량이 64KB라는 뜻이다. 약자는 'C64'이다.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Commodore 64</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore Business Machines</text>
+		</text>		
+	</view>
+</theme>

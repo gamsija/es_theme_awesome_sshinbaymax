@@ -1,0 +1,18 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>이드 소프트웨어의 FPS 게임, 붐(Boom)은 둠을 윈도우 등의 다양한 플랫폼으로 구동할 수 있게 해주는 프로그램. 90년대 후반의 가장 대표적인 소스 포트로 TeamTNT에 의해 개발되었다. 붐 프로젝트의 디자인 목표는 오리지널과 동일한 느낌, 정신을 유지하면서 여러 제약을 없앤 소스 포트를 제작하는 것이었다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>PR Boom</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>20XX</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Various</text>
+        </text>
+    </view>
+
+</theme>

@@ -1,0 +1,193 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+
+	<image name="art" extra="true">
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+	</image> 	
+
+	<image name="logo">
+		<path>./../assets/logos/${system.theme}.jpg</path>
+		<path>./../assets/logos/${system.theme}.png</path>
+		<path>./../assets/logos/${system.theme}.svg</path>
+	</image>
+	
+	<image name="background" extra="true">
+	    <origin>0 0</origin>
+	    <pos>0 0</pos>
+	    <size>1 1</size>
+	    <path>./../assets/overlay1222.png</path>
+	    <zIndex>41</zIndex>
+  	</image>
+
+
+	<video name="md_video" extra="true">
+			<path>{random}</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<zIndex>20</zIndex>
+			<delay>1.5</delay>		
+      </video>
+
+	<!-- <image name="sublogo" extra="true">
+		<path>./../assets/logos/$system.png</path>
+		<pos>0.035 0.13</pos>
+		<maxSize>0.28 0.16</maxSize>
+		<zIndex>42</zIndex>
+	</image>	   -->
+	<text name="info2" extra="true">
+		<fontPath>./../assets/fonts/name-path.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+ 		<fontSize>0.050</fontSize>
+		<lineSpacing>1</lineSpacing>
+		
+		<pos>0.02 0.07</pos>
+		<size>0.7 0.25</size>
+
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
+		<zIndex>42</zIndex>
+	</text>	  
+	<!-- 시스템 이름 -->
+	<!-- <text name="info2" extra="true">
+   		<fontPath>./../assets/fonts/title-head.ttf</fontPath>
+        <color>ffffff</color>
+        <alignment>left</alignment>
+        <fontSize>0.040</fontSize>
+        <lineSpacing>1</lineSpacing>
+		<size>1 0.04</size>
+		<pos>0.035 0.07</pos>
+		<zIndex>42</zIndex>
+    </text> -->
+
+
+	  
+	<text name="info1" extra="true">
+   		<fontPath>./../assets/fonts/normal.ttf</fontPath>
+        <color>aaaaaa</color>
+        <alignment>left</alignment>
+        <fontSize>0.035</fontSize>
+        <lineSpacing>1</lineSpacing>
+
+		<size>0.35 0</size>
+		<pos>0.035 0.36</pos>
+		<origin>0.035 0.08</origin>
+		<zIndex>42</zIndex>
+
+	    <glowSize>1</glowSize>
+        <glowColor>40404080</glowColor>
+        <glowOffset>1</glowOffset>	     
+
+      </text>	  
+	  
+	<carousel name="systemcarousel">
+		<type>vertical</type>
+		<pos>0 0</pos>
+		<size>1 1</size>
+		<origin>0 0</origin>
+		<color>00000000</color>
+        
+        <logoScale>1.5</logoScale>
+        <logoSize>0.3 0.3</logoSize>
+		<logoAlignment>right</logoAlignment>
+		<maxLogoCount>5</maxLogoCount>
+		<defaultTransition>instant</defaultTransition>	
+		<zIndex>50</zIndex>
+	</carousel>
+
+	<!-- 게임 수 ...개의 게임 이용가능 -->
+	<text name="systemInfo">
+		<pos>0.030 0.85</pos>		
+        <alignment>left</alignment>
+        <fontPath>./../assets/fonts/title-head.ttf</fontPath>
+	    <fontSize>0.042</fontSize>
+	    <glowSize>1</glowSize>
+        <glowColor>000000</glowColor>
+        <glowOffset>1</glowOffset>	     
+	    <color>eabe47</color>
+		<zIndex>42</zIndex>
+    </text>
+
+
+	<!-- 디버깅용 -->
+	<!-- <text name="systemThemebyhwshin" extra="true">
+	    <text>${system.theme}</text>
+	    <alignment>left</alignment>
+	    <verticalAlignment>top</verticalAlignment>
+	    <fontPath>./assets/fonts/title-head.ttf</fontPath>
+	    <fontSize>0.050</fontSize>
+	
+		<pos>0.1 0.20</pos>
+		<size>0.98 0.126</size>
+		
+		
+		<zIndex>100</zIndex>
+		<color>D0D0D0FF</color>
+		<glowColor>ff00ff</glowColor>
+		<glowSize>3</glowSize>
+		<glowOffset>1</glowOffset>
+		
+		<zIndex>420</zIndex>
+	</text>      -->
+        
+
+	<!-- 출시년도 -->
+	<text name="info3" extra="true">
+		<fontPath>./../assets/fonts/normal-b.ttf</fontPath>
+		<color>cccccc</color>
+		<alignment>left</alignment>
+		<fontSize>0.035</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0.03</size>
+		<!-- <pos>0.035 0.14 </pos> -->
+		<pos>0.02 0.10</pos>
+		<zIndex>42</zIndex>
+    </text>
+
+	  <!-- 재조사들 --> 
+	<text name="info4" extra="true">
+		<fontPath>./../assets/fonts/normal-b.ttf</fontPath>
+		<!-- <color>5c5b5c</color> -->
+		<color>aaaaaa</color>
+		<alignment>left</alignment>
+		<fontSize>0.035</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.85 0.03</size>
+		<!-- <pos>0.11 0.14</pos> -->
+		<pos>0.087 0.10</pos>
+		<zIndex>42</zIndex>
+	</text>
+	
+     <helpsystem name="help">
+         <fontPath>./assets/fonts/title-head.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <pos>0.02 0.925</pos>
+         <textColor>FFFFFF</textColor>
+	</helpsystem>
+	
+	<!-- Hidden -->
+	<text name="info5" extra="true">
+		<pos>1 1</pos>
+    </text> 
+</view>
+
+<view name="screen">
+	<controllerActivity name="controllerActivity">
+	<pos>0.03 0.025</pos>
+	<size>0.085 0.025</size>
+	<itemSpacing>0.003</itemSpacing>
+	<imagePath>./../_inc/gamepad.svg</imagePath>
+	<color>FFFFFF80</color>
+	<activityColor>A0A0FFC0</activityColor>
+	<hotkeyColor>FFA0A0C0</hotkeyColor>
+</controllerActivity>
+
+</view>
+
+</theme>

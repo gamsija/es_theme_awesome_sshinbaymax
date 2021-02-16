@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <variables>
+        <subset.device>장비</subset.device>
+    </variables>
+
+    <view name="splash">
+        <splash name="splash">
+            <backgroundColor>000000FF</backgroundColor>
+        </splash>
+        <image name="background">
+            <path>./assets/splash_sf_awesome_169.png</path>
+        </image>
+ 
+
+		<image name="progressbar">
+			<origin>0 0</origin>
+			<pos>0.103 0.85</pos>
+			<size>0.985 0.065</size>
+			<rotation>72</rotation>
+			<rotationOrigin>1.1 1.6</rotationOrigin>
+			<color>fe4a53</color>
+		</image>
+
+		<text name="label">
+			<fontPath>./assets/fonts/name-path.ttf</fontPath>
+			<color>fe4a53</color>
+			<pos>0.5 0.85</pos>
+			<alignment>center</alignment>
+			<origin>0.5 0.85</origin>
+			<fontSize>0.045</fontSize>
+			<glowSize>1</glowSize>
+			<glowOffset>1</glowOffset>
+			<glowColor>ffffff80</glowColor>
+		</text>			
+
+        <image name="progressbar:active">
+            <color>f60915</color>
+            <pos>-0.005 -0.15</pos>
+            <size>0.955 0.065</size>
+            <rotation>-74</rotation>
+            <rotationOrigin>1.1 1.6</rotationOrigin>
+        </image>
+    </view>
+</theme>

@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>PC 엔진 슈퍼그래픽스는 NEC 홈 일렉트로닉스에서 발매한 PC 엔진의 후기 모델이다. 1989년 12월 8일 일본에서 발매되었으며, 발매된 전용 게임이 5개, 대응 게임이 1개로 시장이 확립되기도 전에 모습을 감추었다.</text>
+		</text>
+
+
+			<text name="info2" extra="true">
+			<text>NEC SuperGrafx</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+	</view>
+</theme>

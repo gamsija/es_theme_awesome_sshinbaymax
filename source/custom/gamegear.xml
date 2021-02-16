@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>게임 기어는 세가에서 발매된 휴대용 게임기이다. 1990년 10월 6일 일본에서 발매되었으며, 발매 당시 정가는 19,800엔. 대한민국에서는 삼성전자가 일본판 게임기어를 핸디 겜보이로 라이선스 생산하여 발매하였으며, 이후 핸디 알라딘보이로 개명하였다</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Game Gear</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>			
+	</view>
+</theme>

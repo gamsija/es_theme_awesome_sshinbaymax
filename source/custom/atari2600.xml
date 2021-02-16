@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>아타리 2600은 1977년 9월 11일에 북미 시장에 출시된 거치형 게임기이다. 그 당시에는 아타리 2600이 아닌 아타리 비디오 컴퓨터 시스템(Atari Video Computer System, 줄여서 VCS)이라는 이름으로 출시했으나 1982년 11월 아타리 5200을 출시하면서 아타리 2600으로 개명했다.</text>
+		</text>				
+		
+		<text name="info2" extra="true">
+			<text>Atari 2600</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1977</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari, Inc.</text>
+		</text>		
+	</view>
+</theme>

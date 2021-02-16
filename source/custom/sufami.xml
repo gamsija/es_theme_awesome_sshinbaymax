@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>알라딘 데크 인핸서와 종종 비교되는 SuFami Turbo는 반다이가 Nintendo의 Super Famicom 시스템 용으로 출시 한 액세서리이며 1996 년에 출시되었습니다</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>SuFami Turbo</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1996</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Bandai</text>
+        </text>
+    </view>
+</theme>

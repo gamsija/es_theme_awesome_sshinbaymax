@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>벡트렉스는 스미스 엔지니어링에서 개발한 8비트 가정용 게임기이다. 판매는 제너럴 컨슈머 일렉트릭에서 담당하였으며 1982년 11월에 199$의 가격으로 발매하였다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Vectrex</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1982</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>General Consumer Electronics</text>
+        </text>
+    </view>
+</theme>

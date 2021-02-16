@@ -1,0 +1,3 @@
+mkdir new
+ffmpeg -i $1 -ar 22000 -ac 1 -b:a 16k new/$1
+

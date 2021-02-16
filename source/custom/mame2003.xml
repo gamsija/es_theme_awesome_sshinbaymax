@@ -1,0 +1,18 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>'Multiple Arcade Machine Emulator'의 약자. CPU, 비디오, 사운드 등을 가상으로 구현해서 기판에서 PC로 덤프된 롬 파일을 실행시키는 에뮬레이터. 2016년에 BSD/GPLv2 이상으로 갈아타서 현재는 자유 소프트웨어이다.</text>
+		</text>
+\
+		<text name="info2" extra="true">
+			<text>MAME 2003plus</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2003</text>
+		</text>
+		
+	</view>
+</theme>

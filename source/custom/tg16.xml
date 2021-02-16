@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>PC 엔진(TurboGrafx-16)은 NEC에서 발매한 가정용 게임기이다. HE-SYSTEM 규격에 근거하여, 넓은 의미로는 HE-SYSTEM 대응 하드웨어를 가리키고, 좁은 의미로는 흰색의 첫 모델을 가리킨다. </text>
+		</text>
+	
+		<text name="info2" extra="true">
+			<text>PC Engine</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+	
+	</view>
+
+</theme>

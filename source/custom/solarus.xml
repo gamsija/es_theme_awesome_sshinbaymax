@@ -1,0 +1,20 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Solarus는 특별히 The Legend of Zelda: A Link to the Past and Secret of Man of the Super 닌텐도 또는 Sega Mega Drive/Genesis와 같은 컬트 2D 액션 RPG 클래식을 염두에 두고 설계되었다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Solarus</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>2006</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Solarus Team</text>
+        </text>
+        <text name="info5" extra="true">
+            <text>DESENVOLVEDOR:</text>
+        </text>
+    </view>
+</theme>

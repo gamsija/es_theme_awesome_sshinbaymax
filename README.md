@@ -14,6 +14,9 @@ EmuElec
 ![](screenshots/4.png)
 ![](screenshots/5.png)
 
+**[ 미리보기 ]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQsE9U-7HIU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](screenshots/h1.png)
 ![](screenshots/h3.png)
 ![](screenshots/h4.png)
