@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>아미가 CD32(Amiga CD32)는 코모도어의 32비트 게임기로 1993년 7월 16일 런던 사이언스 박물관에서 발표되었으며 9월부터 판매되었다.</text>
+		</text>
+
+
+		<text name="info2" extra="true">
+			<text>Amiga CD32</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>		
+	</view>
+</theme>

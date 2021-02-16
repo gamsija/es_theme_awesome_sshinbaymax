@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>세가에서 가장 처음으로 제작한 게임기로, 우연인지 노렸는지는 몰라도 닌텐도의 패미컴과 같은 날인 1983년 출시했다. SG-1000은 개인용 컴퓨터 용도로 먼저 제작되어 설계가 끝난 SC-3000 에서 키보드, 확장단자를 제거하고 게임기 형태로 만든 부산물이다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>SG-1000</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1983</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>SEGA Corporation</text>
+        </text>
+    </view>
+</theme>

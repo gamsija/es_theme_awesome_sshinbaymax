@@ -1,0 +1,23 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>메가 드라이브의 주변기기로 세가에서 1991년 12월 12일 일본에 처음 내놓은 장치이다. 일본과 유럽에는 '메가 CD', 북미에는 '세가 CD', 한국에는 'CD 알라딘보이'라는 이름으로 발매했다. 메가 드라이브 본체가 필요하다</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Sega CD</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1991</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>SEGA Corporation</text>
+        </text>
+        <image name="logo">
+            <path>./../assets/logos/segamegacd.png</path>
+        </image>
+        <image name="sublogo">
+            <path>./assets/logos/segamegacd.png</path>
+        </image>
+    </view>
+</theme>

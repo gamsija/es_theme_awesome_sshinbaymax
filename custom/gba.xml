@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>게임보이 어드밴스(Gameboy Advance)는 2001년 3월 21일 닌텐도가 일본에서 첫 발매한 휴대용 게임기이다. 줄여서 GBA라고도 부른다. 2003년에는 상위 기종으로 게임보이 어드밴스 SP가 발매되었다. 대한민국에서는 대원씨아이가 2004년에 발매했다.</text>
+		</text>
+
+				<text name="info2" extra="true">
+			<text>Game Boy Advance</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

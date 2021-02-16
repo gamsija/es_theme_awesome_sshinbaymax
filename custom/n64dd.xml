@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>패미컴 디스크 시스템처럼 닌텐도 64의 확장 포트에 부착하는 확장기기. 닌텐도 64용 카트리지와 동일한 최대 64메가 바이트의 용량으로 자유로운 읽기 쓰기가 가능하며 쓰기 용량은 1메가부터 최대 38메가 바이트까지 동적으로 조정이 가능했다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Nintendo 64 DD</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1999</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Nintendo, Alps Electric</text>
+        </text>
+    </view>
+</theme>

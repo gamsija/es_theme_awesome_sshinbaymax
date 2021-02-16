@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>버추얼 보이(Virtual Boy, 일본어: バーチャルボーイ)는 닌텐도에서 발매된 3D 게임기이다. 1995년 7월 21일 일본에서 발매되었으며, 발매 당시 정가는 15,000엔이었다. 닌텐도에서는 버추얼 보이를 휴대용 기기로 개발하였다. 게임 개발 코드네임은 VR32이다.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Virtual Boy</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

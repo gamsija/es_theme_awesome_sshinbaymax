@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>사미에서 2003년에 제작한 아케이드용 게임 기판. 세가의 드림캐스트 생산라인을 재활용하여 만들었기에 사양은 드림캐스트와 대부분 동일하지만, 구 JAMMA 규격 인터페이스에 호환되며 저장매체로 전용 카트리지를 이용한다.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Atomiswave</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2003</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sammy Corporation</text>
+		</text>		
+	</view>
+</theme>

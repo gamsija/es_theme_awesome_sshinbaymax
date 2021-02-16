@@ -1,0 +1,152 @@
+<!-- Horizontal icon menu -->
+<theme>
+    <formatVersion>4</formatVersion>
+    <!-- <feature supported="carousel"> -->
+        <view name="system">
+            <image name="art" extra="true">
+                <pos>.3 0</pos>
+                <size>.70 .7</size>
+                <zIndex>1</zIndex>
+            </image>
+            
+			<image name="logo">
+                <path>./../assets/panels/${system.theme}.jpg</path>
+            </image>
+
+            <carousel name="systemcarousel">
+                <type>horizontal</type>
+                <pos>.0 0.31</pos>
+                <size>1 1</size>
+                <color>ffffff00</color>
+                <logoScale>1.5</logoScale>
+                <logoSize>0.18 .3</logoSize>
+                <maxLogoCount>5</maxLogoCount>
+                <logoAlignment>right</logoAlignment>
+                <defaultTransition>instant</defaultTransition>
+				<zIndex>45</zIndex>
+            </carousel>
+
+			<!-- 하단 도움말 -->
+            <helpsystem name="help">
+	            <fontPath>./../assets/fonts/title-head.ttf</fontPath>
+                <fontSize>0.035</fontSize>
+                <pos>0.007 0.950</pos>
+                <textColor>eeeeee</textColor>
+				<zIndex>45</zIndex>
+            </helpsystem>		
+
+			<!-- 배경 비디오 -->
+            <video name="md_video" extra="true">
+	            <path>{random}</path>
+                <origin>0 0</origin>
+                <pos>0.3 0.0</pos>
+                <size>0.70 0.68</size>
+                <delay>1.5</delay>
+                <showSnapshotNoVideo>false</showSnapshotNoVideo>
+                <visible>true</visible>
+				<zIndex>20</zIndex>
+            </video>
+
+			<!-- 백그라운드 이미지 -->
+            <image name="background" extra="true">
+                <origin>0 0</origin>
+                <pos>0 0</pos>
+                <size>1 1</size>
+                <path>./../assets/filters/black/bg-flix.svg</path>
+				<zIndex>35</zIndex>
+            </image>
+    
+			<!-- 출시년도 -->
+			<text name="info3" extra="true">
+				<fontPath>./../assets/fonts/normal-b.ttf</fontPath>
+				<color>cccccc</color>
+				<alignment>left</alignment>
+				<fontSize>0.035</fontSize>
+				<lineSpacing>1</lineSpacing>
+				<size>0.35 0.03</size>
+				<!-- <pos>0.035 0.14 </pos> -->
+				<pos>0.02 0.03</pos>
+				<zIndex>42</zIndex>
+			</text>
+
+			<!-- 재조사들 --> 
+			<text name="info4" extra="true">
+				<fontPath>./../assets/fonts/normal-b.ttf</fontPath>
+				<!-- <color>5c5b5c</color> -->
+				<color>aaaaaa</color>
+				<alignment>left</alignment>
+				<fontSize>0.035</fontSize>
+				<lineSpacing>1</lineSpacing>
+				<size>0.85 0.03</size>
+				<!-- <pos>0.11 0.14</pos> -->
+				<pos>0.090 0.03</pos>
+				<zIndex>42</zIndex>
+			</text>			
+
+			<!-- 준비된 게임 수 표시 -->
+            <text name="systemInfo">
+                <pos>0.020 0.565</pos>   
+                <size>0.96 0.15</size>             
+                <backgroundColor>00000000</backgroundColor>
+				<glowSize>1</glowSize>
+				<glowColor>000000</glowColor>
+				<glowOffset>1</glowOffset>	     
+				<color>eabe47</color>
+                <!-- <size>0.275 0.00</size> -->
+                <alignment>right</alignment>
+		        <fontPath>./../assets/fonts/title-head.ttf</fontPath>
+                <fontSize>0.050</fontSize>
+				<zIndex>45</zIndex>
+            </text>
+
+            <image name="console" extra="true">
+                <path>./../assets/logos/${system.theme}.jpg</path>
+                <path>./../assets/logos/${system.theme}.png</path>
+                <path>./../assets/logos/${system.theme}.svg</path>
+                <pos>0.025 0.075</pos>
+                <maxSize>0.25 0.20</maxSize>
+                <alignment>left</alignment>
+				<zIndex>45</zIndex>
+            </image>
+
+			<!-- 설명 -->
+            <text name="info1" extra="true">
+                <fontPath>./../assets/fonts/normal.ttf</fontPath>
+                <pos>.025 0.28</pos>
+	            <!-- <origin>0.035 0.08</origin> -->
+                <size>0.55 0</size>
+                <alignment>left</alignment>
+                <color>aaaaaa</color>
+                <fontSize>0.035</fontSize>
+                <glowColor>40404080</glowColor>
+                <glowSize>1</glowSize>
+				<zIndex>45</zIndex>
+            </text>
+
+	<!-- 디버깅용 -->
+	<!-- <text name="systemThemebyhwshin" extra="true">
+	    <text>${system.theme}</text>
+	    <alignment>left</alignment>
+	    <verticalAlignment>top</verticalAlignment>
+	    <fontPath>./assets/fonts/title-head.ttf</fontPath>
+	    <fontSize>0.050</fontSize>
+	
+		<pos>0.1 0.20</pos>
+		<size>0.98 0.126</size>
+		
+		
+		<zIndex>100</zIndex>
+		<color>D0D0D0FF</color>
+		<glowColor>ff00ff</glowColor>
+		<glowSize>3</glowSize>
+		<glowOffset>1</glowOffset>
+		
+		<zIndex>420</zIndex>
+	</text>      -->
+
+			<image name="hue" extra="true">
+				<pos>1 1</pos>
+			</image>
+        </view>
+    <!-- </feature> -->
+</theme>

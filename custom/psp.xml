@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>플레이스테이션 포터블(영어: PlayStation Portable 줄어서 PSP)은 소니 컴퓨터 엔터테인먼트에서 만든 휴대용 게임기이다. E3 2003에서 개발 버전 콘솔을 공개하였으며, 2004년 12월 24일 일본에서 처음 출시하였다</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>PlayStation Portable</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>	
+	</view>
+</theme>
+

@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>MAME(Multiple Arcade Machine Emulator, 다중 아케이드 기계 에뮬레이터)는 아케이드 게임 에뮬레이터로서 아케이드 게임 시스템의 하드웨어를 소프트웨어로 구현하고 있다. 이는 고전 게임을 보존하자는 의도에서 시작된 프로젝트이다.</text>
+		</text>
+\
+		<text name="info2" extra="true">
+			<text>M.A.M.E.</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1997</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nicola Salmoria</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>NEC PC-98 기종은 PC-9800 시리즈라고도 하며, 일본 전기(NEC)가 개발한 개인용 컴퓨터 고유 기종으로, x86 CPU를 기반으로 하여 IBM PC 계열과 유사점도 있으나 입출력 인터페이스 등이 다르므로 직접 호환되지는 않는다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>PC-9801</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1982</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>NEC</text>
+        </text>
+    </view>
+</theme>

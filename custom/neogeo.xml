@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>네오지오는 일본 SNK사가 1990년에 발매한 카트리지 기반 아케이드 및 가정용 비디오 게임기이다. 네오지오는 당시 다른 게임기와 비교했을 때 다채로운 2차원 그래픽과 고품질의 사운드 기능을 제공하였다.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Neo Geo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

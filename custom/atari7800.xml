@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Atari 7800 ProSystem(아타리 7800 프로시스템). 1984년 LA 올림픽을 노려 1984년 6월에 처음 출시한, 그러나 내부 사정 때문에 사실상 2년이나 흐른 1986년 5월이나 되어서야 본격적으로 판매를 시작했던 아타리 2600과 하위호환 가능한 아타리 5200의 후계 게임기이다.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Atari 7800</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>		
+	</view>
+</theme>

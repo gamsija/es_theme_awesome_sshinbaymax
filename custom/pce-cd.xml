@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>1987년 10월 30일에 허드슨(現:코나미) 주도로 NEC 홈 일렉트로닉스에서 개발, 발매한 8비트 게임기. 가격은 일본 기준으로 24,800엔이었다. 약칭은 PCE로, 에뮬레이터에서 롬파일의 확장자도 PCE다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>PC Engine CD</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1988</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>NEC Home Electronics</text>
+        </text>
+    </view>
+</theme>

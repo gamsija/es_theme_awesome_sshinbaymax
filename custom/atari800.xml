@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>시대를 풍미한 미국의욕 수집가 게임 개발사로, 설립자는 놀런 부슈널이다. 회사 이름의 어원은 바둑 용어 '단수'의 일본어인 'アタリ(아타리)'이다. 그래서 일본 회사로 잘못 알고 있는 사람들도 있다. 로고는 후지산에서 유래했으며, 로고 디자이너는 George Opperman이다.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Atari 800</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1979</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari, Inc.</text>
+		</text>		
+	</view>
+</theme>

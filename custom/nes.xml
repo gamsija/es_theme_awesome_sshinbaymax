@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>닌텐도 엔터테인먼트 시스템은 닌텐도가 북아메리카 · 브라질 · 유럽 · 아시아 · 오스트레일리아에서 발매한 가정용 게임기이다. 일본에서 발매된 패밀리 컴퓨터 (패미컴)를 기반으로 만들어진 것으로, 나라마다 조금씩 차이가 있다.</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>Nintendo Entertainment System</text>
+		</text>
+
+	  
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>	
+</theme>

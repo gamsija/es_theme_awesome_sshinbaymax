@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>콜레코비전(ColecoVision)은 콜레코의 2세대 가정용 게임기로 1982년 8월에 발매되었다. 롬 카트리지 방식으로 오락실 수준의 게임과 하드웨어 확장으로 아타리 2600의 게임을 같이 할 수 있었다. </text>
+		</text>
+
+
+		<text name="info2" extra="true">
+			<text>ColecoVision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Coleco Industries, Inc.</text>
+		</text>			
+	</view>
+</theme>

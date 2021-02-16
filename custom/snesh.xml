@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Super Famicom/ SNES  é um console de videogame de 16 bits desenvolvido pela Nintendo que foi lançado em 1990 no Japão. O console apresentou gráficos avançados e foi considerado um dos melhores consoles da história.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>SNES Hacks</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>19XX</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Various</text>
+        </text>
+    </view>
+</theme>

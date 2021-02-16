@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>닌텐도에서 개발한 가정용 16비트 게임기. 뛰어난 성능으로 수많은 명작을 배출해낸 명기. 패밀리 컴퓨터의 후계기종으로서, 세가의 메가 드라이브와 비교해서는 후발주자이지만 패미컴 시절에 쌓은 든든한 서드파티 인맥은 이 게임기로도 이어졌다.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Super Nintendo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>
+		
+		</view>
+</theme>

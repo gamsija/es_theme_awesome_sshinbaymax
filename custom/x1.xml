@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>샤프 X1은 1982년에 출시된 개인용 컴퓨터로, 본체, TV 튜너 내장 모니터, 키보드로 구성된 TV 일체형 컴퓨터입니다. 본체와 주변기기의 가로 길이를 390mm로 맞추고, 본체 색상이 3종류라는 건 당시로서도 상당히 독특한 경우입니다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Sharp X1</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1982</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Sharp Corporation</text>
+        </text>
+    </view>
+</theme>

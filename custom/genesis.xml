@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>일본에는 1988년 10월 29일, 미국에는 세가 제네시스(Sega Genesis)라는 이름으로 1989년 8월 14일, 유럽에는 1990년 11월 30일에 발매되었다. 대한민국에는 1990년 8월에 삼성전자를 통해 슈퍼겜보이라는 이름으로 발매되었으며, 이후 슈퍼알라딘보이로 개명하였다.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Sega Mega Drive</text>
+		</text>
+		
+      <image name="logo" >
+		<path>./assets/logos/genesis.png</path>
+	</image>
+
+				<image name="sublogo" region="EN">
+		<path>./assets/logos/genesis.png</path>
+	</image>
+	
+      <image name="art" >
+         <path>./assets/arts/genesis.jpg</path>
+      </image>
+
+	
+		<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>	
+	
+	</view>
+   
+
+</theme>

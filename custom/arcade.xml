@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>아케이드 게임은 오락실 등 특정한 장소에서 코인을 넣고 하는 게임을 말한다. 일반적으로 1980년대를 발흥기와 융성기로 간주하며, 2000년대 이후에 사양길로 접어든 산업이다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Arcade</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>19XX</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Various</text>
+        </text>
+    </view>
+</theme>

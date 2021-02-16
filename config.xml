@@ -1,0 +1,78 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+	<include>./colorsets/fullhd.xml</include>
+
+	<!-- 색상
+    <include subset="MainBGColor" name="Default" displayName="${default}"/>
+    <include subset="MainBGColor" name="Green" displayName="${huegreen}">./colorsets/green.xml</include>
+    <include subset="MainBGColor" name="Red" displayName="${huered}">./colorsets/red.xml</include>
+    <include subset="MainBGColor" name="Blue" displayName="${hueblue}">./colorsets/blue.xml</include>
+    <include subset="MainBGColor" name="Purple" displayName="${huepurple}">./colorsets/purple.xml</include> -->
+
+	<!-- 메인화면은 일단 1개만 -->
+	<include subset="systemview" name="세로스핀-배경비디오-텍스트로고" displayName="${vbvt}">./systemview/VBVT.xml</include>
+	<include subset="systemview" name="세로스핀-배경비디오-이미지로고" displayName="${vbvi}">./systemview/VBVI.xml</include>
+	<include subset="systemview" name="가로스핀-배경비디오-텍스트로고" displayName="${hbvt}">./systemview/HBVT.xml</include>
+
+	<!-- 배경음 -->
+	<include subset="music" name="Mute" displayName="${silence}">./nosounds.xml</include>
+    <include subset="music" name="On" displayName="${sysmusic}">./sounds.xml</include>
+    <include subset="music" name="Off" displayName="${nomusic}"/>
+
+	<!-- 테마 세이더 -->
+    <include subset="shader" name="Crt Full Screen" displayName="${scrtfs}">./effects/crt.xml</include>
+    <include subset="shader" name="ScanLines Full Screen" displayName="${sclfs}">./effects/scanlines.xml</include>
+    <include subset="shader" name="VHS Glitch (Heavy)" displayName="${svhsgl}">./effects/vhs.xml</include>
+    <include subset="shader" name="CRT Glitch (Heavy)" displayName="${scrtgl}">./effects/crtvideo.xml</include>
+
+    <include subset="shader" name="ScanLines">./effects/scanliness.xml</include>
+    <include subset="shader" name="Crt">./effects/crtt.xml</include>
+    <include subset="shader" name="Phosphore">./effects/phosphore.xml</include>
+    <include subset="shader" name="Scanlines Alternative" displayName="${scanalt}">./effects/scanliness.xml</include>
+    <include subset="shader" name="Phosphore +">./effects/phosplus.xml</include>
+    <include subset="shader" name="Vertical Scanlines">./effects/scanvert.xml</include>
+    <include subset="shader" name="Vertical Fine">./effects/verticalfine.xml</include>
+    <include subset="shader" name="None" displayName="${none}"/>
+
+
+	<!-- 헬프 아이콘셋, 하단에 표시되는... 사용자 인터페이스 설정 > 도움말표시 ON -->
+	<include subset="iconset" name="standard icons" displayName="${icondef}">./iconsets/default.xml</include>
+	<include subset="iconset" name="SNES">./iconsets/snes.xml</include>
+	<include subset="iconset" name="SNES ALT">./iconsets/snesalt.xml</include>
+	<include subset="iconset" name="XBox">./iconsets/xbox.xml</include>
+	<include subset="iconset" name="PSX">./iconsets/psx.xml</include>
+	<include subset="iconset" name="ARCADE">./iconsets/arcade.xml</include>
+	<include subset="iconset" name="PSX ALT">./iconsets/psx1.xml</include>
+	<include subset="iconset" name="Xbox One">./iconsets/xboxone.xml</include>
+	<include subset="iconset" name="Switch">./iconsets/switch.xml</include>
+
+
+    <variables>
+        <none>사용안함</none>
+        <sysmusic>배경음 재생</sysmusic>
+        <nomusic>배경음 끔</nomusic>
+        <silence>배경음 음소거</silence>
+        <default>기본</default>
+        <huegreen>녹색</huegreen>
+        <huered>빨간색</huered>
+        <hueblue>파란색</hueblue>
+        <huepurple>바이올렛</huepurple>
+        <icondef>기본 아이콘</icondef>
+        <svhsgl>VHS 글리치 (무거움)</svhsgl>
+        <scrtgl>CRT 글리치 (무거움)</scrtgl>
+        <scrtfs>CRT 전체화면</scrtfs>
+        <sclfs>전체화면 스캔라인</sclfs>
+        <vbvt>세로스핀-배경비디오-텍스트로고</vbvt>
+        <vbvi>세로스핀-배경비디오-이미지로고</vbvi>
+        <hbvt>가로스핀-배경비디오-텍스트로고</hbvt>
+
+        <subset.systemview>시스템 보기</subset.systemview>
+        <subset.music>배경음악</subset.music>
+        <subset.shader>테마 세이더</subset.shader>
+        <subset.MainBGColor>색상</subset.MainBGColor>
+        <subset.iconset>헬프 아이콘</subset.iconset>
+
+        <!-- <subset.colorset>배경 이미지</subset.colorset> 지금은 fullhd 기본만 사용중 -->
+    </variables>
+</theme>

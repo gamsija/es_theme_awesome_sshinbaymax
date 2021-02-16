@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>CP 시스템 II(CP System II, CPシステムII, 약칭 CPS-2)는 캡콤이 1993년 슈퍼 스트리트 파이터 II부터 사용하기 시작했던 아케이드 기판이다. CP 시스템과 캡콤 파워 시스템 차저의 후속 기판으로, 1996년에 제작된 CP 시스템 III가 뒤를 이었다.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>CP System II</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Capcom</text>
+		</text>			
+	</view>
+</theme>

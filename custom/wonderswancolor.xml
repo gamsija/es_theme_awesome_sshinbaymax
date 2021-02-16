@@ -1,0 +1,20 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>원더스완 컬러는 반다이에서 발매된 원더스완의 후계 기종이다. 2000년 12월 9일 일본 발매. 컬러 액정이 최대의 특징으로 크기나 무게는 원더스완과 거의 변화가 없지만 화면의 가로폭이 약간 커졌다</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>WonderSwan Color</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bandai</text>
+		</text>	
+	</view>
+</theme>

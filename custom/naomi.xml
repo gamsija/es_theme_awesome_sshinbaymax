@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>세가 나오미(New Arcade Operation Machine Idea)는 1998년 세가가 드림캐스트를 기반으로 제작한 아케이드 게임 기판이다. 나오미는 모델 3의 후계 시스템으로 새로운 JAMMA 규격을 최초로 지원한 아케이드 시스템.</text>
+		</text>
+
+
+		<text name="info2" extra="true">
+			<text>Sega Naomi</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>	
+
+	<image name="sublogo">
+		<path>./assets/logos/naomi.png</path>
+	</image>		
+		
+	</view>
+</theme>

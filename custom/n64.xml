@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>닌텐도에서 출시한 4번째 가정용 게임기다. 경쟁 기종은 세가 새턴, 플레이스테이션. 약칭은 N64. 한국에는 현대전자에서 1997년 '현대컴보이 64'라는 이름으로 정식 판매되었다.</text>
+		</text>
+
+
+				<text name="info2" extra="true">
+			<text>Nintendo 64</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

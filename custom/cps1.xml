@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>CP 시스템(CP System, CPシステム, 약칭 CPS-1)은 캡콤이 개발한 아케이드 기판이다. 게임 소프트웨어가 저장된 ROM 카트리지를 장착해 가동하는 방식으로, 캡콤의 당시 대부분의 아케이드 게임이 이 모델로 개발됐다. </text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>CP System</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Capcom</text>
+		</text>			
+	</view>
+</theme>
