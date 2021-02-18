@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Mega Duck WG-108은 홍콩에 본사를 둔 Welback Holdings가 Timlex International 사업부를 통해 개발 및 제조 한 1993년에 출시 된 휴대용 게임 콘솔입니다</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Mega Duck</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1993</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Timlex International</text>
+        </text>
+    </view>
+</theme>

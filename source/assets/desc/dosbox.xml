@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>말 그대로 DOS(특히 MS-DOS)를 최신 운영체제에서 맛볼 수 있도록 돌려주는 에뮬레이터다. 지원대상은 대표적인 운영체제 3종 Windows, macOS, 리눅스 전부다. 심지어, 업데이트는 안되고 있지만 Solaris, BeOS 버전도 있다</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>DOS BOX</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>2002</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Various</text>
+        </text>
+    </view>
+</theme>

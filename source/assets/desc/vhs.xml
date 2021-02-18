@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>.mp4 .avi .mpeg .mkv를 지원하는 동영상 플레이어</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Video Player</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>19XX</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Various</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>일본 및 유럽의 시각 메모리 시스템이라고도하는 시각 메모리 장치는 Sega에서 Dreamcast 홈 비디오 게임 콘솔 용으로 제작 한 기본 메모리 카드입니다</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Dreamcast Video Memory Unit</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1998</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>SEGA</text>
+        </text>
+    </view>
+</theme>

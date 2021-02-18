@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>비디오 기술 CreatiVision은 1981년 VTech에서 소개하고 1982 년에 출시 한 하이브리드 컴퓨터 및 홈 비디오 게임 콘솔입니다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>VTech CreatiVision</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1981</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>VTech</text>
+        </text>
+    </view>
+</theme>

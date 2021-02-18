@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>1995년에 닌텐도가 일본에 발매한 슈퍼 패미컴 전용 주변기기이며, 1995년부터 2000년까지 BS 아날로그 방송으로 방송된 슈퍼 패미컴 전용 위성 데이터 방송 서비스를 수신하기 위한 위성 모뎀이다. </text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Satellaview</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1995</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Nintendo</text>
+        </text>
+    </view>
+</theme>

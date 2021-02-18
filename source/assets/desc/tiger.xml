@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>게임컴은 1997년 8월 미국에서 타이거 일렉트로닉스에서 발매된 휴대용 게임기이다. 게임닷컴이라고 발음하지 않고, 게임컴이라고 발음한다. </text>
+        </text>
+        <text name="info2" extra="true">
+            <text>game.com</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1997</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Tiger Electronics</text>
+        </text>
+    </view>
+</theme>

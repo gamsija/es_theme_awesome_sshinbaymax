@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>네오지오 CD(Neo Geo CD, ネオジオCD)는 SNK 코퍼레이션의 네오지오의 2번째 가정용 게임기로서, 1994년 9월 9일에 출시되었으며, 이는 카트리지 기반 게임기가 나온지 4년째이다.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo CD</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

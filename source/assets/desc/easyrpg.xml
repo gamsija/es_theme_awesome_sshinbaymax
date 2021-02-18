@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>RPG 쯔꾸르 2000/2003과 호환되는 오픈소스 소프트웨어이자 크로스 플랫폼 RPG 개발툴이자 구동기이다. 초코 플레이어와 비슷하나, 아예 호환이 목적인 초코 플레이어와 달리 자체 에디터까지 존재하는 엄연히 다른 프로그램이다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Easy RPG</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>20XX</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Various</text>
+        </text>
+    </view>
+</theme>

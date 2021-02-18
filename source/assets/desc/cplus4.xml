@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Commodore Plus/4는 1984년 Commodore International에서 출시 한 가정용 컴퓨터입니다. "Plus / 4"라는 이름은 4 개의 응용 프로그램 ROM 상주 사무실 제품군을 나타냅니다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Commodore Plus/4</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1984</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Commodore International</text>
+        </text>
+    </view>
+</theme>

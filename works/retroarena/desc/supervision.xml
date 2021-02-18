@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>영국의 QuickShot Supervision으로도 알려진 Watara Supervision은 흑백 핸드 헬드 게임 콘솔로, 아시아에서 시작되어 1992 년 Nintendo의 Game Boy의 가격 경쟁자로 소개되었습니다 </text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Supervision</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1992</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Watara</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Thomson MO5는 ZX Spectrum과 Commodore 64와 같은 시스템과 경쟁하기 위해 1984년에 프랑스에서 도입된 가정용 컴퓨터다. 동시에 톰슨은 고급 시장인 톰슨 TO7/70 기계도 출시했다</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Thomson MO5</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1984</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Thomson SA</text>
+        </text>
+    </view>
+</theme>

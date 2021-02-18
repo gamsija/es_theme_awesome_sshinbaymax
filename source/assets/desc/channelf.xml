@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text> 페어차일드 세미컨덕터에서 1976년 발매한 가정용 게임기로 마그나복스 오디세이에 이어 두 번째 카트리지 방식의 게임기이다. 오디세이의 카트리지가 단순한 점퍼 조합이었던 것에 비해 채널 F는 롬 카트리지로서 2세대 가정용 게임기의 시초라 볼 수 있다</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Fairchild Channel F</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1976</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Fairchild Semiconductor</text>
+        </text>
+    </view>
+</theme>

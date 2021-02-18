@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>ChaiLove는 2D 게임 프레임워크이다. ChaiLove는 Love2D API에서 영감을 받아 ChaiScript 스크립팅 언어를 사용하여 2D 게임을 만들 수 있다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>ChaiLove</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>20XX</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Various</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Commodore PET는 Commodore International에서 1977 년에 생산 한 가정용 / 개인용 컴퓨터 제품군입니다.</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Commodore PET</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1977</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Commodore International</text>
+        </text>
+    </view>
+</theme>
