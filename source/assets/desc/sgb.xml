@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>슈퍼 패미컴으로 게임보이 게임을 할 수 있게 해주는 기기로, 슈퍼 패미컴에 일반 SFC 카트리지처럼 꽂은 후 슈퍼 게임보이에 달린 게임보이 카트리지용 슬롯에 게임보이용 소프트를 꽂으면 슈퍼 패미컴으로 게임보이 게임을 즐길 수 있다</text>
+		</text>		
+
+		<text name="info2" extra="true">
+			<text>Super Game Boy</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

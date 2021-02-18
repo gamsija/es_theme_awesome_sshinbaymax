@@ -2,9 +2,7 @@
     <formatVersion>4</formatVersion>
     <view name="system">
         <text name="info1" extra="true">
-            <text>
-            원래 NVIDIA GameStream은 Shield Controller와 같은 디바이스 제품들이 필요한데, Moonlight를 사용하면 Windows PC, iPhone, Android 등 다양한 클라이언트 환경에서 NVIDIA의 게임 스트리밍을 즐길 수 있습니다.
-            </text>
+            <text>원래 NVIDIA GameStream은 Shield Controller와 같은 디바이스 제품들이 필요한데, Moonlight를 사용하면 Windows PC, iPhone, Android 등 다양한 클라이언트 환경에서 NVIDIA의 게임 스트리밍을 즐길 수 있습니다.</text>
         </text>
         <text name="info2" extra="true">
             <text>Moonlight</text>

@@ -54,19 +54,6 @@
 		<glowSize>2</glowSize>
 		<zIndex>42</zIndex>
 	</text>	  
-	<!-- 시스템 이름 -->
-	<!-- <text name="info2" extra="true">
-   		<fontPath>./../assets/fonts/title-head.ttf</fontPath>
-        <color>ffffff</color>
-        <alignment>left</alignment>
-        <fontSize>0.040</fontSize>
-        <lineSpacing>1</lineSpacing>
-		<size>1 0.04</size>
-		<pos>0.035 0.07</pos>
-		<zIndex>42</zIndex>
-    </text> -->
-
-
 	  
 	<text name="info1" extra="true">
    		<fontPath>./../assets/fonts/normal.ttf</fontPath>
@@ -75,9 +62,14 @@
         <fontSize>0.035</fontSize>
         <lineSpacing>1</lineSpacing>
 
-		<size>0.35 0</size>
+		<!-- <size>0.35 0</size>
 		<pos>0.035 0.36</pos>
-		<origin>0.035 0.08</origin>
+		<origin>0.035 0.08</origin> -->
+		
+		<size>0.45 0</size>
+		<pos>0.035 0.36</pos>
+		<origin>0 0</origin>
+
 		<zIndex>42</zIndex>
 
 	    <glowSize>1</glowSize>

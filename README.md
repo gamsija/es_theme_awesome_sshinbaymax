@@ -6,19 +6,24 @@
 351Elec, ArkOS
 
 **##[ Odroid Go Super ]**
-EmuElec
+EmuElec, RetroArena (v1.2버전부터 지원)
 
+
+**[ v1.2 추가된 내용 ]**
+
+![](screenshots/awesome_v12_screenshots.png)
 
 
 **[ 미리보기 ]**
 
 아래 이미지를 클릭하면 영상 미리보기를 하실 수 있습니다.
 
-[![Video Label](https://i9.ytimg.com/vi/qQsE9U-7HIU/mq2.jpg?sqp=CNC4roEG&rs=AOn4CLDOwqoX4kKM-9chYuvjOIy4WvNedQ)](https://www.youtube.com/embed/qQsE9U-7HIU)
+[![Video Label](https://www.youtube.com/embed/qQsE9U-7HIU)](https://www.youtube.com/embed/qQsE9U-7HIU)
 
 
 
 **##[추가된 게임목록보기 미리보기]**
+
 ![](screenshots/1.png)
 ![](screenshots/3.png)
 ![](screenshots/4.png)

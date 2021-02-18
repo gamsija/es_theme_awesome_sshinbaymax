@@ -32,15 +32,19 @@
             <maxSize>0.28 0.16</maxSize>
             <zIndex>42</zIndex>
         </image>
+        <!-- 설명 ./assets/desc/* -->
         <text name="info1" extra="true">
             <fontPath>./../assets/fonts/normal.ttf</fontPath>
             <color>aaaaaa</color>
             <alignment>left</alignment>
             <fontSize>0.035</fontSize>
             <lineSpacing>1</lineSpacing>
-            <size>0.35 0</size>
+            
+            <size>0.45 0</size>
             <pos>0.035 0.36</pos>
-            <origin>0.035 0.08</origin>
+            <!-- <origin>0.035 0.08</origin> -->
+            <origin>0 0</origin>
+
             <zIndex>42</zIndex>
             <glowSize>1</glowSize>
             <glowColor>40404080</glowColor>

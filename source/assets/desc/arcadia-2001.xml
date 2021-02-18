@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>아카디아 2001은 이머슨 라디오사에서 1982년 3월 발매한 8비트 가정용 게임기로 당시 주류였던 아타리 2600에 비해 매우 강력한 성능을 가지고 있었지만 아타리 5200이나 콜레코비전에는 비교할 수 없었다</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Arcadia 2001</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1982</text>
+        </text>
+        <text name="info4" extra="true">
+            <text> Emerson Radio</text>
+        </text>
+    </view>
+</theme>

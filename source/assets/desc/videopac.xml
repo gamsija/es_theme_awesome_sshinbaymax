@@ -1,0 +1,17 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>마그나복스 오디세이(Magnavox Odyssey)는 마그나복스(Magnavox)사에서 발매한 세계 최초의 가정용 게임기로 1972년 5월 시연되었으며 같은 해 10월에 발매되었다. VideoPac은 유럽버전 이름</text>
+        </text>
+        <text name="info2" extra="true">
+            <text>Videopac G7200</text>
+        </text>
+        <text name="info3" extra="true">
+            <text>1978</text>
+        </text>
+        <text name="info4" extra="true">
+            <text>Magnavox, Philips</text>
+        </text>
+    </view>
+</theme>

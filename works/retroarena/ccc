@@ -1,2 +1,0 @@
-cp $1/* ../../source/assets/$1
-
