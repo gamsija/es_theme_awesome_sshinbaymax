@@ -27,7 +27,7 @@ EmuElec, RetroArena (v1.2버전부터 지원)
 3. 기타 누락 및 버그 수정
 
 ![](screenshots/awesome_v12_screenshots.png)
-
+ 
 
 **[ 미리보기 ]**
 
